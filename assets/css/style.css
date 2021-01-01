@@ -1085,9 +1085,24 @@ section {
   background: #eff2f8;
 }
 
-#footer .member
+#member
 {
-    font-size: 40px
+    font-size: 18px
+}
+
+#head
+{
+    font-size: 22px
+}
+
+#footer .p
+{
+    font-size: 15px
+}
+
+#abts
+{
+    font-size: 20px
 }
 
 #footer .footer-newsletter {
