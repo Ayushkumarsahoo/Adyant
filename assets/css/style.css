@@ -923,6 +923,7 @@ section {
 /*--------------------------------------------------------------
 # Contact
 --------------------------------------------------------------*/
+
 .contact .info {
   padding: 20px 40px;
   background: #f1f3f6;
@@ -1082,6 +1083,11 @@ section {
   color: #47536e;
   font-size: 14px;
   background: #eff2f8;
+}
+
+#footer .member
+{
+    font-size: 40px
 }
 
 #footer .footer-newsletter {
